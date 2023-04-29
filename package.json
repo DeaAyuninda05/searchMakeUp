@@ -1,0 +1,23 @@
+{
+  "name": "makeup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeaAyuninda05/makeup-finder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DeaAyuninda05/makeup-finder/issues"
+  },
+  "homepage": "https://github.com/DeaAyuninda05/makeup-finder#readme",
+  "dependencies": {
+    "jquery": "^3.6.4",
+    "moment": "^2.29.4"
+  }
+}
